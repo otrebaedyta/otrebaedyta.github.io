@@ -65,8 +65,8 @@ picture{
 }
 
 img{
+padding: 1rem;
 
-    max-width: 80%;
 }
 
 footer{
@@ -89,7 +89,7 @@ footer p{
         line-height:  1.4rem;
     }
     footer a{
-        color: blanchedalmond;
+        color: rgb(12, 8, 1);
         text-decoration: none;
     }
     #toggler,
